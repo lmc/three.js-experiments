@@ -18,6 +18,7 @@ n-body.html - n-body gravity simulation
 ---------------------------------------
 
 A fairly rough [n-body](http://en.wikipedia.org/wiki/N-body_simulation) gravity simulator with basic particle collision/merger code, can be used to demonstrate solar system formation.
+
 ![screenshot](http://i.imgur.com/SRNvUXY.gif)
 
 Licence
